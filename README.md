@@ -1,4 +1,4 @@
-    # Write Terraform script to create a custom VPC and deploy two EC2 VMs on AWS using Terraform.
+## Write Terraform script to create a custom VPC and deploy two EC2 VMs on AWS using Terraform.
 
     The code should be broken into three different parts:
 
